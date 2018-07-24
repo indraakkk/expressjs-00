@@ -1,0 +1,20 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "lear how using nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "@indraakkk",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ramda": "^0.25.0"
+  }
+}
