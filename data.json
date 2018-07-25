@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "designer": "Le Corbusier",
+      "product": "LC2 Petite Modéle Armchair",
+      "year": 1928,
+      "description": "Stripped down to it’s fundamentals, this classic chair consists simply of a steel tube frame and goose-down leather cushions. Described by Le Corbusier as a basket of cushions; like his architecture, only the fundamentals remain.",
+      "image_url": "https://i2.wp.com/befrontmag.com/wp-content/uploads/2016/09/lc2_gallery_02.jpg?"
+    },
+    {
+      "id": 2,
+      "designer": "Philippe Starck",
+      "product": "Ghost Chair",
+      "year": 2002,
+      "description": "Philippe Starck’s take on the classic Louis XV armchair as a single transparent mould has turned out to be one of the most recognizable pieces of furniture in the 21st century.",
+      "image_url": "https://i1.wp.com/befrontmag.com/wp-content/uploads/2016/09/louis-ghost-chair-philippe-starck-kartell-2.jpg"
+    },
+    {
+      "id": 3,
+      "designer": "Mies van der Rohe",
+      "product": "Barcelona Chair",
+      "year": 1929,
+      "description": "This piece of furniture is almost synonymous with modernism. It was designed by Mies van der Rohe to furnish his German pavilion at the Barcelona expo in 1929. It has since been a giant in both the worlds of architecture and furniture. This was his minimalist take on a seat “fit for a king”, as it was indeed designed to accommodate the king and queen of Spain.",
+      "image_url": "https://i0.wp.com/befrontmag.com/wp-content/uploads/2016/09/barcelona-chair.jpg"
+    },
+    {
+      "id": 4,
+      "designer": "Marcel Breuer",
+      "product": "Wassily Chair",
+      "year": 1925,
+      "description": "Breuer was an early student of Modernism. He was one of the pioneers of bent tubular steel in furniture making. This chair is inspired by the structure of a bicycle and completely changed the perception of furniture design. It elegantly holds itself up, strapped with strips of leather and achieving recline angles measured by the Gods. We suggest you find one, and sit on it.",
+      "image_url": "https://i0.wp.com/befrontmag.com/wp-content/uploads/2016/09/mc-c-301-lined-up-2.jpg"
+    },
+    {
+      "id": 5,
+      "designer": "Arne Jacobsen",
+      "product": "3107",
+      "year": 1955,
+      "description": "We can guarantee one of you would be sitting on this chair as you read this. It is everywhere! Probably one of the most successful stack-able chairs ever produced; definitely the most copied. It was designed for mass production yet, still appearing bespoke and hand crafted.",
+      "image_url": "https://i2.wp.com/befrontmag.com/wp-content/uploads/2016/09/3107-dinner-chair-by-arne-jacobsen-for-fritz-hansen.jpg"
+    },
+    {
+      "id": 6,
+      "designer": "Charles & Ray Eames",
+      "product": "Moulded Chair",
+      "year": 1948,
+      "description": "On the flip-side, this chair was designed for the future. Made originally in metal and then changed to fibre glass, it was constantly updated until finally after Charles Eames’ death they switched to recyclable polypropylene. It was designed in 1948 as part of a low-cost design furniture competition. Today, it’s not so cheap.",
+      "image_url": "https://i2.wp.com/befrontmag.com/wp-content/uploads/2016/09/eamesreg-plastic-side-chair-dowel-leg-charles-and-ray-eames-herman-miller-6.jpg"
+    },
+    {
+      "id": 7,
+      "designer": "Verner Panton",
+      "product": "S Chair",
+      "year": 1967,
+      "description": "The S chair was of it’s time. It epitomized the 60’s; the colour, the flamboyance. It was an instant success and somehow it stayed as the centre of attention for decades after. Today, it is considered a modern masterpiece.",
+      "image_url": "https://i1.wp.com/befrontmag.com/wp-content/uploads/2016/09/panton-chair-verner-panton-vitra-4.jpg"
+    },
+    {
+      "id": 8,
+      "designer": "Le Corbusier",
+      "product": "LC4 Chaise Lounge",
+      "year": 1928,
+      "description": "Form follows function! Another piece of modernist mastery. This chair was designed with one thing in mind; comfort. Le Corbusier described it as a relaxing machine, combating the notion that beauty and comfort could not be achieved in the same spectrum of design.",
+      "image_url": "https://i2.wp.com/befrontmag.com/wp-content/uploads/2016/09/Le-Corbusier-Chaise-Lounge.jpg"
+    },
+    {
+      "id": 9,
+      "designer": "Arne Jacobsen",
+      "product": "Egg Chair",
+      "year": 1967,
+      "description": "Everyone knows the “egg chair”. It looks like something out of the 60’s pop culture craze, yet it still nestles comfortably in the most contemporary interior setting. It was designed to cave into itself creating privacy for anyone on it. The shape is as iconic a piece of furniture as they come and you can bet that every five star hotel lobby has one.",
+      "image_url": "https://i1.wp.com/befrontmag.com/wp-content/uploads/2016/09/PD_1390_ENV3.jpg"
+    },
+    {
+      "id": 10,
+      "designer": "Charles and Ray Eames",
+      "product": "Lounge Chair",
+      "year": 1956,
+      "description": "And then there is this chair… Ironically, it was designed in response to the simple, ugly basement chairs that most families hoarded in 40’s and 50’s. The intention of this chair was to create the highest degree of comfort possible, sort of like Le Corbusier 30 years earlier, except, this is so much more. It is arguably the most iconic piece of furniture in history.",
+      "image_url": "https://i1.wp.com/befrontmag.com/wp-content/uploads/2016/09/eames-lounge-chair-1.jpg"
+    }
+]
